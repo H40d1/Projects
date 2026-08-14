@@ -1,0 +1,32 @@
+################################ 
+
+Nota: El proyecto ha sido realizado en equipo
+
+
+Cómo hacer funcionar el proyecto paso a paso ################################
+# ---------------------------------------------------------------------------------------------------------- #
+# 1. Sitúese en el directorio raíz del proyecto.							     #
+#    Si ha abierto este fichero desde la ruta en la que se encuentra, ya está situado sobre dicho directorio #
+# 2. Abra una ventana de terminal en esta ruta. Varía para cada Sistema Operativo y para cada distribución   #
+# 3. Realice el siguiente paso en función del SO que esté utilizando:					     #
+#	- Si está utilizando una terminal UNIX o derivados, lance el mandato 'python .\src\practica203.py'   #
+#       - Si está utilizando una terminal MS-DOS, lance el mandato 'python src\practica203.py'               #
+#    Para ambos casos se habrá lanzado una ventana gráfica, que hará funcionar nuestra práctica.             #
+# 4. Para finalizar la ejecución puede simplemente cerrar la ventana o matar al proceso desde la propia      #
+#    línea de mandatos (generalmente Ctrl + C)                                                               #
+# 													     #
+#													     #
+#													     #
+# Tenga en cuenta que, para poder hacer funcionar este proyecto, es condición necesaria tener instalado      #
+# Python en su equipo.											     #
+# ---------------------------------------------------------------------------------------------------------- #
+##############################################################################################################
+# ---------------------------------------------------------------------------------------------------------- #
+# Adicionalmente en el directorio va a encontrar dos ficheros, para facilitar la ejecución:                  #
+# - Para Windows: Puede usar windows.bat para hacer funcionar la práctica sin tener que abrir una terminal   #
+# - Para Linux: Puede usar linux.sh de la misma manera que el anterior. Para este último caso, debe          #
+#               tener en cuenta que linux.sh debe tener permisos de ejecución. Esto se puede cambiar         #
+#		con 'chmod +x linux.sh'									     #
+# ---------------------------------------------------------------------------------------------------------- #
+##############################################################################################################
+
